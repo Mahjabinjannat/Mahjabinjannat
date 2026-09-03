@@ -1,11 +1,9 @@
-## Hi there 👋
-
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Mahjabin%20Jannat&fontSize=45&fontAlignY=35&desc=Computer%20Science%20Graduate%20%7C%20Aspiring%20Frontend%20Developer&descAlignY=55&descSize=18" width="100%" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Mahjabin%20Jannat&fontSize=45&fontAlignY=35&desc=Computer%20Science%20Graduate%20%7C%20Aspiring%20Frontend%20Developer&descAlignY=55&descSize=18"
+    width="100%"
+  />
 </p>
-
-<!-- Introduction -->
 
 <h1 align="center">Hi 👋, I'm Mahjabin Jannat</h1>
 
@@ -21,17 +19,17 @@
 
 ## 👩‍💻 About Me
 
-I'm a Computer Science and Engineering graduate who is passionate about **web development and problem solving**. I'm currently exploring the JavaScript ecosystem, especially **JavaScript, TypeScript, and React.js**, while building different projects to strengthen my practical skills.
+I'm a Computer Science and Engineering graduate with a passion for **web development and problem solving**. I'm currently exploring the JavaScript ecosystem, particularly **JavaScript, TypeScript, and React.js**, while building projects to strengthen my practical skills.
 
 I enjoy turning ideas into functional projects, experimenting with new technologies, and solving programming problems on online judges. I'm also a **quick learner** who enjoys continuously improving my skills and taking on new challenges.
 
 ### 🌱 Currently
 
-* 🔭 Exploring **JavaScript, TypeScript & React.js**
-* 🛠️ Building projects to strengthen my frontend development skills
-* 🧩 Practicing **problem solving** on online judges
-* 📚 Continuously learning modern web development technologies
-* 🚀 Working towards becoming a professional **Frontend Developer**
+- 🔭 Exploring **JavaScript, TypeScript & React.js**
+- 🛠️ Building projects to strengthen my frontend development skills
+- 🧩 Practicing **problem solving** on online judges
+- 📚 Continuously learning modern web development technologies
+- 🚀 Working towards becoming a professional **Frontend Developer**
 
 ---
 
@@ -46,12 +44,10 @@ I enjoy turning ideas into functional projects, experimenting with new technolog
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mahjabinjannat&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahjabinjannat&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Mahjabinjannat&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://streak-stats.demolab.com?user=Mahjabinjannat&theme=tokyonight&hide_border=true"
+    alt="Mahjabin's GitHub Streak"
+  />
 </p>
 
 ---
@@ -59,19 +55,30 @@ I enjoy turning ideas into functional projects, experimenting with new technolog
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="www.linkedin.com/in/mahjabin-jannat">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
+  <a href="https://www.linkedin.com/in/mahjabin-jannat">
+    <img
+      src="https://skillicons.dev/icons?i=linkedin"
+      width="45"
+      alt="LinkedIn"
+    />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/Mahjabinjannat">
-    <img src="https://skillicons.dev/icons?i=github" width="45" />
+    <img
+      src="https://skillicons.dev/icons?i=github"
+      width="45"
+      alt="GitHub"
+    />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mahjabinjannat&label=Profile%20Views&color=blueviolet&style=flat" />
+  <img
+    src="https://komarev.com/ghpvc/?username=Mahjabinjannat&label=Profile%20Views&color=blueviolet&style=flat"
+    alt="Profile Views"
+  />
 </p>
 
 <p align="center">
@@ -81,6 +88,3 @@ I enjoy turning ideas into functional projects, experimenting with new technolog
 <p align="center">
   <b>💻 Keep learning. Keep building. Keep solving. 🚀</b>
 </p>
-
-- ⚡ Fun fact: ...
--->
