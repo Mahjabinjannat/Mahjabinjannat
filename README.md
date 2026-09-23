@@ -8,7 +8,7 @@
 <h1 align="center">Hi 👋, I'm Mahjabin Jannat</h1>
 
 <h3 align="center">
-  Computer Science & Engineering Graduate | Aspiring Frontend Developer
+  Computer Science & Engineering Graduate | Aspiring Full-Stack Developer
 </h3>
 
 <p align="center">
